@@ -19,7 +19,8 @@ print(type(y))
 
 print(type(z))
 
-![image](https://github.com/user-attachments/assets/281caaaa-5cf8-49e3-8775-c736d432f4e9)
+![image](https://github.com/user-attachments/assets/203eb215-cbc3-48bf-9e63-b484581b584a)
 
 
-![image](https://github.com/user-attachments/assets/4d89ac34-e9f6-45f3-ba4c-65e405e099bc)
+
+![image](https://github.com/user-attachments/assets/68d1ae0a-63bb-403d-b66c-0782f14e6c5d)
