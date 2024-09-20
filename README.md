@@ -3,7 +3,7 @@ plactica 3 3-W
 
 print(" ")
 
-print("Emmanuel castruita soto esta es mi practica 3 numbers " )
+print("Emmanuel Castruita Soto esta es mi practica 3 numbers " )
 
 print(" ")
 
