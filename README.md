@@ -20,9 +20,11 @@ print(type(y))
 print(type(z))
 
 print(" ")
+#EL CODIGO
 
-![image](https://github.com/user-attachments/assets/203eb215-cbc3-48bf-9e63-b484581b584a)
+![image](https://github.com/user-attachments/assets/a7645a67-967a-45ee-a9f3-25e4760333d9)
 
 
+#RESULTADO
 
 ![image](https://github.com/user-attachments/assets/68d1ae0a-63bb-403d-b66c-0782f14e6c5d)
